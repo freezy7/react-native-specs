@@ -1,0 +1,16 @@
+current directory: /Users/nikki/house/github/react-native-specs/a_react-native/0_74_5/AwesomeProject/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/nikki/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/nikki/house/github/react-native-specs/a_react-native/0_74_5/AwesomeProject/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240809-16289-vcwi7q sitelibdir\=./.gem.20240809-16289-vcwi7q clean
+
+current directory: /Users/nikki/house/github/react-native-specs/a_react-native/0_74_5/AwesomeProject/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240809-16289-vcwi7q sitelibdir\=./.gem.20240809-16289-vcwi7q
+make: Nothing to be done for `all'.
+
+current directory: /Users/nikki/house/github/react-native-specs/a_react-native/0_74_5/AwesomeProject/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240809-16289-vcwi7q sitelibdir\=./.gem.20240809-16289-vcwi7q install
+
+current directory: /Users/nikki/house/github/react-native-specs/a_react-native/0_74_5/AwesomeProject/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240809-16289-vcwi7q sitelibdir\=./.gem.20240809-16289-vcwi7q clean
