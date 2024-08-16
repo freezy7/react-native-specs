@@ -1,4 +1,3 @@
- // AProject/node_modules/react-native/
 {
   "name": "React-RuntimeCore",
   "version": "0.74.5",
@@ -14,12 +13,12 @@
     "tag": "v0.74.5"
   },
   "source_files": [
-    "*.{cpp,h}",
-    "nativeviewconfig/*.{cpp,h}"
+    "AProject/node_modules/react-native/ReactCommon/react/runtime/*.{cpp,h}",
+    "AProject/node_modules/react-native/ReactCommon/react/runtime/nativeviewconfig/*.{cpp,h}"
   ],
   "exclude_files": [
-    "iostests/*",
-    "tests/**/*.{cpp,h}"
+    "AProject/node_modules/react-native/ReactCommon/react/runtime/iostests/*",
+    "AProject/node_modules/react-native/ReactCommon/react/runtime/tests/**/*.{cpp,h}"
   ],
   "header_dir": "react/runtime",
   "pod_target_xcconfig": {

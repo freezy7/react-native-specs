@@ -1,4 +1,3 @@
- // AProject/node_modules/react-native/
 {
   "name": "React-jsi",
   "version": "0.74.5",
@@ -39,11 +38,11 @@
 
     ]
   },
-  "source_files": "**/*.{cpp,h}",
+  "source_files": "AProject/node_modules/react-native/ReactCommon/jsi/**/*.{cpp,h}",
   "exclude_files": [
-    "jsi/jsilib-posix.cpp",
-    "jsi/jsilib-windows.cpp",
-    "**/test/*",
-    "jsi/jsi.cpp"
+    "AProject/node_modules/react-native/ReactCommon/jsi/jsi/jsilib-posix.cpp",
+    "AProject/node_modules/react-native/ReactCommon/jsi/jsi/jsilib-windows.cpp",
+    "AProject/node_modules/react-native/ReactCommon/jsi/**/test/*",
+    "AProject/node_modules/react-native/ReactCommon/jsi/jsi/jsi.cpp"
   ]
 }

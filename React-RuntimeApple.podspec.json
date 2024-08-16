@@ -1,4 +1,3 @@
- // AProject/node_modules/react-native/
 {
   "name": "React-RuntimeApple",
   "version": "0.74.5",
@@ -13,7 +12,7 @@
     "git": "https://github.com/freezy7/react-native-specs.git",
     "tag": "v0.74.5"
   },
-  "source_files": "ReactCommon/*.{mm,h}",
+  "source_files": "AProject/node_modules/react-native/ReactCommon/react/runtime/platform/ios/ReactCommon/*.{mm,h}",
   "header_dir": "ReactCommon",
   "pod_target_xcconfig": {
     "HEADER_SEARCH_PATHS": [
@@ -80,5 +79,5 @@
 
     ]
   },
-  "exclude_files": "ReactCommon/RCTJscInstance.{mm,h}"
+  "exclude_files": "AProject/node_modules/react-native/ReactCommon/react/runtime/platform/ios/ReactCommon/RCTJscInstance.{mm,h}"
 }
