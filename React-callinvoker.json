@@ -1,0 +1,17 @@
+{
+  "name": "React-callinvoker",
+  "version": "0.74.5",
+  "summary": "-",
+  "homepage": "https://reactnative.dev/",
+  "license": "MIT",
+  "authors": "Meta Platforms, Inc. and its affiliates",
+  "platforms": {
+    "ios": "13.4"
+  },
+  "source": {
+    "git": "https://github.com/freezy7/react-native-specs.git",
+    "tag": "v0.74.5"
+  },
+  "source_files": "AwesomeProject/node_modules/react-native/ReactCommon/callinvoker/**/*.{cpp,h}",
+  "header_dir": "ReactCommon"
+}
