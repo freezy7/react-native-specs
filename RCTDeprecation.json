@@ -5,13 +5,13 @@
   "license": "MIT",
   "homepage": "https://reactnative.dev/",
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
+    "git": "https://github.com/freezy7/react-native-specs.git",
     "tag": "v#{version}"
   },
   "summary": "Macros for marking APIs as deprecated",
   "source_files": [
-    "Exported/*.h",
-    "RCTDeprecation.m"
+    "AProject/node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation/Exported/*.h",
+    "AProject/node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation/RCTDeprecation.m"
   ],
   "pod_target_xcconfig": {
     "DEFINES_MODULE": "YES",

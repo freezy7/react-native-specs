@@ -9,11 +9,11 @@
     "ios": "13.4"
   },
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
+    "git": "https://github.com/freezy7/react-native-specs.git",
     "tag": "v0.74.5"
   },
   "header_dir": "jserrorhandler",
-  "source_files": "JsErrorHandler.{cpp,h}",
+  "source_files": "AProject/node_modules/react-native/ReactCommon/jserrorhandler/JsErrorHandler.{cpp,h}",
   "pod_target_xcconfig": {
     "USE_HEADERMAP": "YES",
     "CLANG_CXX_LANGUAGE_STANDARD": "c++20",

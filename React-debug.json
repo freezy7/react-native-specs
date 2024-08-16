@@ -9,10 +9,10 @@
     "ios": "13.4"
   },
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
+    "git": "https://github.com/freezy7/react-native-specs.git",
     "tag": "v0.74.5"
   },
-  "source_files": "**/*.{cpp,h}",
+  "source_files": "AProject/node_modules/react-native/ReactCommon/react/debug/**/*.{cpp,h}",
   "header_dir": "react/debug",
   "pod_target_xcconfig": {
     "CLANG_CXX_LANGUAGE_STANDARD": "c++20",

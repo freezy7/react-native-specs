@@ -1,3 +1,4 @@
+ // AProject/node_modules/react-native/
 {
   "name": "React-hermes",
   "version": "0.74.5",
@@ -9,7 +10,7 @@
     "ios": "13.4"
   },
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
+    "git": "https://github.com/freezy7/react-native-specs.git",
     "tag": "v0.74.5"
   },
   "public_header_files": "executor/HermesExecutorFactory.h",
