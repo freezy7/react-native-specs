@@ -18,8 +18,8 @@
     "HEADER_SEARCH_PATHS": [
       "$(PODS_ROOT)/boost",
       "$(PODS_ROOT)/Headers/Private/React-Core",
-      "$(PODS_TARGET_SRCROOT)/../../../..",
-      "$(PODS_TARGET_SRCROOT)/../../../../.."
+      "$(PODS_TARGET_SRCROOT)/AProject/node_modules/react-native/ReactCommon/react/runtime/platform/ios/../../../..",
+      "$(PODS_TARGET_SRCROOT)/AProject/node_modules/react-native/ReactCommon/react/runtime/platform/ios/../../../../.."
     ],
     "USE_HEADERMAP": "YES",
     "CLANG_CXX_LANGUAGE_STANDARD": "c++20",

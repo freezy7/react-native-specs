@@ -15,7 +15,7 @@
   "source_files": "AProject/node_modules/react-native/ReactCommon/react/runtime/hermes/*.{cpp,h}",
   "header_dir": "react/runtime/hermes",
   "pod_target_xcconfig": {
-    "HEADER_SEARCH_PATHS": "\"${PODS_TARGET_SRCROOT}/../..\" \"${PODS_TARGET_SRCROOT}/../../hermes/executor\" \"$(PODS_ROOT)/boost\" \"${PODS_CONFIGURATION_BUILD_DIR}/React-jsinspector/jsinspector_modern.framework/Headers\"",
+    "HEADER_SEARCH_PATHS": "\"${PODS_TARGET_SRCROOT}/AProject/node_modules/react-native/ReactCommon/react/runtime/../..\" \"${PODS_TARGET_SRCROOT}/AProject/node_modules/react-native/ReactCommon/react/runtime/../../hermes/executor\" \"$(PODS_ROOT)/boost\" \"${PODS_CONFIGURATION_BUILD_DIR}/React-jsinspector/jsinspector_modern.framework/Headers\"",
     "USE_HEADERMAP": "YES",
     "CLANG_CXX_LANGUAGE_STANDARD": "c++20",
     "GCC_WARN_PEDANTIC": "YES"

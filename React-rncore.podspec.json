@@ -15,7 +15,7 @@
   "source_files": "AProject/node_modules/react-native/ReactCommon/dummyFile.cpp",
   "pod_target_xcconfig": {
     "USE_HEADERMAP": "YES",
-    "HEADER_SEARCH_PATHS": "\"$(PODS_TARGET_SRCROOT)\" \"$(PODS_TARGET_SRCROOT)/ReactCommon\"",
+    "HEADER_SEARCH_PATHS": "\"$(PODS_TARGET_SRCROOT)\" \"$(PODS_TARGET_SRCROOT)/AProject/node_modules/react-native/ReactCommon\"",
     "CLANG_CXX_LANGUAGE_STANDARD": "c++20"
   }
 }
