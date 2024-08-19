@@ -9,9 +9,9 @@
     "ios": "13.4"
   },
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
-    "tag": "v0.74.5"
+    "git": "https://github.com/freezy7/react-native-specs.git",
+    "tag": "v#{version}"
   },
-  "source_files": "**/*.{c,h,m,mm,cpp}",
+  "source_files": "AProject/node_modules/react-native/Libraries/FBLazyVector/**/*.{c,h,m,mm,cpp}",
   "header_dir": "FBLazyVector"
 }

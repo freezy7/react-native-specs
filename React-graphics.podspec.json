@@ -16,11 +16,10 @@
   "source_files": "AProject/node_modules/react-native/ReactCommon/react/renderer/graphics/**/*.{m,mm,cpp,h}",
   "header_dir": "react/renderer/graphics",
   "exclude_files": [
-    "tests",
-    "platform/android",
-    "platform/cxx",
-    "platform/windows",
-    "react/renderer/graphics"
+    "AProject/node_modules/react-native/ReactCommon/react/renderer/graphics/tests",
+    "AProject/node_modules/react-native/ReactCommon/react/renderer/graphics/platform/android",
+    "AProject/node_modules/react-native/ReactCommon/react/renderer/graphics/platform/cxx",
+    "AProject/node_modules/react-native/ReactCommon/react/renderer/graphics/platform/windows"
   ],
   "pod_target_xcconfig": {
     "USE_HEADERMAP": "NO",

@@ -13,8 +13,8 @@
     "git": "https://github.com/freezy7/react-native-specs.git",
     "tag": "v0.74.5"
   },
-  "source_files": "AProject/node_modules/react-native/ReactCommonreact/renderer/components/image/**/*.{m,mm,cpp,h}",
-  "exclude_files": "AProject/node_modules/react-native/ReactCommonreact/renderer/components/image/tests",
+  "source_files": "AProject/node_modules/react-native/ReactCommon/react/renderer/components/image/**/*.{m,mm,cpp,h}",
+  "exclude_files": "AProject/node_modules/react-native/ReactCommon/react/renderer/components/image/tests",
   "header_dir": "react/renderer/components/image",
   "compiler_flags": "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -Wno-comma -Wno-shorten-64-to-32",
   "pod_target_xcconfig": {
