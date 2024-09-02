@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/freezy7/react-native-specs.git",
-    "tag": "v#{version}"
+    "tag": "v0.74.5"
   },
   "source_files": "AProject/node_modules/react-native/Libraries/FBLazyVector/**/*.{c,h,m,mm,cpp}",
   "header_dir": "FBLazyVector"

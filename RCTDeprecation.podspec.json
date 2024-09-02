@@ -6,7 +6,7 @@
   "homepage": "https://reactnative.dev/",
   "source": {
     "git": "https://github.com/freezy7/react-native-specs.git",
-    "tag": "v#{version}"
+    "tag": "v0.74.5"
   },
   "summary": "Macros for marking APIs as deprecated",
   "source_files": [
